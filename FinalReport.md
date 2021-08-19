@@ -1,6 +1,6 @@
 Google Summer of Code, 2021 @[OpenMRS](https://github.com/openmrs)
 
-Project : SMART-on-FHIR 
+Project : [SMART-on-FHIR](https://wiki.openmrs.org/display/projects/GSoC+2021%3A+SMART-on-FHIR)
 
 Student name : Ankit Kumar
 
